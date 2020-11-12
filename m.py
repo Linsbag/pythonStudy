@@ -18,5 +18,5 @@ b = "good day"
 # print(d)
 
 #字符串方法之len()：获取字符串长度(小心，这里不是点方法了)
-lenth = len(a)
-print(lenth)
+# lenth = len(a)
+# print(lenth)
